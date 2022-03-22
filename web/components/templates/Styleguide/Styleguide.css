@@ -1,0 +1,17 @@
+div.styleguide {}
+
+div.styleguide-nav,
+div.styleguide-items {
+  padding: 20px;
+  margin: 20px;
+}
+
+div.styleguide-nav {
+  background: #fff;
+  position: relative;
+  z-index: 9999999;
+}
+
+div.styleguide-items {
+  background: #fff;
+}
