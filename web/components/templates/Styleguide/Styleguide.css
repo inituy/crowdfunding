@@ -1,9 +1,15 @@
-div.styleguide {}
+div.styleguide {
+  background: #000;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 100%;
+}
 
 div.styleguide-nav,
 div.styleguide-items {
   padding: 20px;
-  margin: 20px;
 }
 
 div.styleguide-nav {

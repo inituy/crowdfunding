@@ -1,6 +1,8 @@
 module.exports = function (grunt) {
+  var stylesPath = '../styles/*.css';
   var componentsPath = '../components/**/**.css';
   var tmpStylesPath = './tmp/styles.css';
+  var watchedStylePaths = [stylesPath, componentsPath];
 
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
@@ -9,7 +11,7 @@ module.exports = function (grunt) {
   grunt.initConfig({
     watch: {
       css: {
-        files: [componentsPath],
+        files: watchedStylePaths,
         tasks: ['compile:css'],
         options: {
           spawn: false,
@@ -20,8 +22,8 @@ module.exports = function (grunt) {
     },
     concat: {
       css: {
-        src: [componentsPath],
-        dest: tmpStylesPath
+        src: watchedStylePaths,
+        dest: tmpStylesPath,
       },
     },
     cssmin: {

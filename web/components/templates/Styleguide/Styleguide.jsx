@@ -1,6 +1,7 @@
 import React from 'react';
 
 /* ATOMS */
+import Button from '../../atoms/Button/Button.jsx';
 
 /* MOLECULES */
 
@@ -11,13 +12,12 @@ import React from 'react';
 
 
 
-
-var selectedComponent = 'CarouselSelectionList';
+var selectedComponent = 'Button';
 var components = [
-  /* {
-    name: 'ActionButton',
-    elem: <ActionButton onClick={function () {}} text="Action Button" />
-  }, */
+  {
+    name: 'Button',
+    elem: <Button onClick={console.log} text="Button" />
+  },
 ];
 
 
@@ -30,15 +30,27 @@ class Styleguide extends React.Component {
     this.state = { selected: selectedComponent };
   }
 
-  handleChange(selection) {
-    this.setState({ selected: selection.value });
+  handleChange(event) {
+    this.setState({ selected: event.target.value });
   }
 
   renderComponentDropdown() {
     var options = components.map(function (component) {
       return { value: component.name, label: component.name };
     });
-    return <div></div>;
+    return (
+      <select
+          defaultValue={selectedComponent}
+          onChange={this.handleChange.bind(this)}>
+        {components.map(function (component) {
+          return (
+            <option key={component.name} value={component.name}>
+              {component.name}
+            </option>
+          );
+        })}
+      </select>
+    );
   }
 
   renderComponent(component, index) {
