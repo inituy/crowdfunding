@@ -1,2 +1,4 @@
 node_modules
 web/dev/tmp
+web/*.min.js
+web/*.min.css
