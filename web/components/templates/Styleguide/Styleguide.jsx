@@ -3,6 +3,7 @@ import React from 'react';
 /* ATOMS */
 import Button from '../../atoms/Button/Button.jsx';
 import Logo from '../../atoms/Logo/Logo.jsx';
+import HamburgerMenuButton from '../../atoms/HamburgerMenuButton/HamburgerMenuButton.jsx';
 /* MOLECULES */
 
 /* ORGANISMS */
@@ -21,7 +22,11 @@ var components = [
   {
     name: 'Logo',
     elem: <Logo text='LOGO/NOMBRE'/>,
-}
+  },
+  {
+    name: 'HamburgerMenuButton',
+    elem: <HamburgerMenuButton/>
+  },
 ];
 
 
