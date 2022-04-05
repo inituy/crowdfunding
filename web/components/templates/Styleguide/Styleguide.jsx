@@ -5,6 +5,7 @@ import Button from '../../atoms/Button/Button.jsx';
 import Logo from '../../atoms/Logo/Logo.jsx';
 import HamburgerMenuButton from '../../atoms/HamburgerMenuButton/HamburgerMenuButton.jsx';
 import PageTitle from '../../atoms/PageTitle/PageTitle.jsx';
+import InformationBox from '../../atoms/InformationBox/InformationBox.jsx'
 /* MOLECULES */
 
 /* ORGANISMS */
@@ -31,6 +32,10 @@ var components = [
   {
     name: 'PageTitle',
     elem: <PageTitle title="PROYECTO CROWDFUNDING COOPERATIVA DE VIVIENDAS."/>
+  },
+  {
+    name: 'InformationBox',
+    elem: <InformationBox text="VIDEO/ TEXTO Informativo explicando que es una cooperativa de vivienda." />
   },
 ];
 
