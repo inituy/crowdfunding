@@ -4,10 +4,7 @@ import React from 'react';
 import Button from '../../atoms/Button/Button.jsx';
 import Logo from '../../atoms/Logo/Logo.jsx';
 import HamburgerMenuButton from '../../atoms/HamburgerMenuButton/HamburgerMenuButton.jsx';
-<<<<<<< HEAD
 import PageTitle from '../../atoms/PageTitle/PageTitle.jsx';
-=======
->>>>>>> master
 /* MOLECULES */
 
 /* ORGANISMS */
@@ -31,13 +28,10 @@ var components = [
     name: 'HamburgerMenuButton',
     elem: <HamburgerMenuButton/>
   },
-<<<<<<< HEAD
   {
     name: 'PageTitle',
     elem: <PageTitle title="PROYECTO CROWDFUNDING COOPERATIVA DE VIVIENDAS."/>
   },
-=======
->>>>>>> master
 ];
 
 
