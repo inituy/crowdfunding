@@ -1,0 +1,43 @@
+.floatingInformationBox {
+  width: 303.55px;
+  padding: 8px;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.floatingInformationBox div {
+  width: 284px;
+  padding: 16px;
+  border: 0.5px solid #000000;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.floatingInformationBox div div {
+  width: 142.58px;
+  padding: 7px 0 7px;
+  background: #FFFFFF;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.floatingInformationBox div div p {
+  width: 139px;
+  padding: 3px 0 3px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
