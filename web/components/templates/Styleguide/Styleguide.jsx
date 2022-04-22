@@ -6,6 +6,8 @@ import Logo from '../../atoms/Logo/Logo.jsx';
 import HamburgerMenuButton from '../../atoms/HamburgerMenuButton/HamburgerMenuButton.jsx';
 import PageTitle from '../../atoms/PageTitle/PageTitle.jsx';
 import InformationBox from '../../atoms/InformationBox/InformationBox.jsx'
+import FloatingInformationBox from '../../atoms/FloatingInformationBox/FloatingInformationBox.jsx';
+
 /* MOLECULES */
 
 /* ORGANISMS */
@@ -36,6 +38,10 @@ var components = [
   {
     name: 'InformationBox',
     elem: <InformationBox text="VIDEO/ TEXTO Informativo explicando que es una cooperativa de vivienda." />
+  },
+  {
+    name: 'FloatingInformationBox',
+    elem: <FloatingInformationBox text="INFORMACIÓN EN VENTANA FLOTANTE Explicando como se navega en la pag. principal" />
   },
 ];
 
