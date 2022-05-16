@@ -7,6 +7,7 @@ import HamburgerMenuButton from '../../atoms/HamburgerMenuButton/HamburgerMenuBu
 import PageTitle from '../../atoms/PageTitle/PageTitle.jsx';
 import InformationBox from '../../atoms/InformationBox/InformationBox.jsx'
 import FloatingInformationBox from '../../atoms/FloatingInformationBox/FloatingInformationBox.jsx';
+import DropdownMenu from '../../atoms/DropdownMenu/DropdownMenu.jsx';
 
 /* MOLECULES */
 
@@ -42,6 +43,14 @@ var components = [
   {
     name: 'FloatingInformationBox',
     elem: <FloatingInformationBox text="INFORMACIÓN EN VENTANA FLOTANTE Explicando como se navega en la pag. principal" />
+  },
+  {
+    name: 'DropdownMenu',
+    elem: <DropdownMenu items={[
+      "Seleccionar Wallet",
+      "Phantom",
+      "Metamask",
+    ]}/>
   },
 ];
 
