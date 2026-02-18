@@ -4,6 +4,8 @@ Podes apoyar este contenido con US$ 10 (o más) para financiar las expensas oper
 
 [`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
 
+---
+
 ## Productos increíbles #50: Javier Todeschini
 
 Vamos a conversar con Javier este 📆 24 de Febrero. Esta vez lo vamos a hacer en Kaffa Cafe, en Pocitos.
@@ -12,11 +14,9 @@ Si querés participar desde el café, anotate y nos vemos el 24: https://podcast
 
 [`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
 
-### Miembros que apoyan
+---
 
-Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
-
-[`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
+## Miembros que apoyan
 
 | # | Monto    | Miembro          |
 | - | -------- | ---------------- |
@@ -26,7 +26,13 @@ Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 | 4 | US$ 10   | Santiago Regusci |
 | 5 | US$ 10   | —                |
 
-### Detalles del apoyo
+Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
+
+[`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
+
+---
+
+## Detalles del apoyo
 
 * Objetivo: US$ 50
 * Apoyo individual: US$ 10
