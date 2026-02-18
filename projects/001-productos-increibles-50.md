@@ -10,7 +10,7 @@ Podés apoyar este contenido con US$ 10 (o más) para financiar las expensas ope
 
 ## Productos increíbles #50: Javier Todeschini
 
-Vamos a conversar con Javier este 📆 24 de Febrero. Esta vez lo vamos a hacer en Kaffa Cafe, en Pocitos.
+Vamos a conversar con [Javier Todeschini](https://www.linkedin.com/in/javier-todeschini/) este 📆 24 de Febrero. Esta vez lo vamos a hacer en Kaffa Cafe, en Pocitos.
 
 Si querés participar desde el café, anotate y nos vemos el 24: https://podcast.init.uy
 
