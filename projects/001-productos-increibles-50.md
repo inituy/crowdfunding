@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/inituy/crowdfunding/refs/heads/main/banners/productos-increibles-50-16_9.png" width="600" />
+
 # Apoya este contenido
 
 Podes apoyar este contenido con US$ 10 (o más) para financiar las expensas operativas del siguiente evento.
