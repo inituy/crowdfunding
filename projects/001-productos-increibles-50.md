@@ -2,7 +2,7 @@
 
 # Apoya este contenido
 
-Podes apoyar este contenido con US$ 10 (o más) para financiar las expensas operativas del siguiente evento.
+Podes apoyar este contenido con US$ 10 (o más) para financiar las expensas operativas la organizacion.
 
 [`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
 
