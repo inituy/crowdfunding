@@ -53,7 +53,7 @@ Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
 * Objetivo: US$ 200
 * Apoyo individual: US$ 10
-* Apoyos necesarios: 5
+* Apoyos necesarios: 20
 
 Estas son las expensas que necesitamos cubrir:
 
