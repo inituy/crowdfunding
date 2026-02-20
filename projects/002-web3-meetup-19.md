@@ -62,3 +62,9 @@ Estas son las expensas que necesitamos cubrir:
 | Saldo inicial | —      | US$200 |
 | Pizza         | US$100 | US$100 |
 | Bebidas       | US$100 | US$0   |
+
+## Como apoyar
+
+Momentaneamente recibimos los apoyos en la cuenta Prex de [Federico Baña](https://www.linkedin.com/in/banafederico/).
+
+Obtene mas informacion haciendo clic acá: [`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
