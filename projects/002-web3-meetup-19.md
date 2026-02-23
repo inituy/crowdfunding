@@ -65,6 +65,6 @@ Estas son las expensas que necesitamos cubrir:
 
 ## Como apoyar
 
-Momentaneamente recibimos los apoyos en la cuenta Prex de [Federico Baña](https://www.linkedin.com/in/banafederico/).
+Momentáneamente recibimos los apoyos en la cuenta Prex de [Federico Baña](https://www.linkedin.com/in/banafederico/).
 
-Obtene mas informacion haciendo clic acá: [`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
+Obtené más información haciendo clic acá: [`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
