@@ -22,8 +22,8 @@ Anotate acá: https://meetup.init.uy
 
 | #  | Monto    | Miembro          |
 | -- | -------- | ---------------- |
-|  1 | US$ 10   | Federico Baña    |
-|  2 | US$ 10   | Manuel De León   |
+|  1 | US$ 10   | Federico Bana    |
+|  2 | US$ 10   | Manuel De Leon   |
 |  3 | US$ 10   | —                |
 |  4 | US$ 10   | —                |
 |  5 | US$ 10   | —                |
