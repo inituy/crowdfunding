@@ -48,7 +48,7 @@ Estas son las expensas que necesitamos cubrir:
 | Reserva de living del cafe por 2 horas | US$45 | US$15 |
 | Café para el host y el invitado        | US$15 | US$0  |
 
-## Como apoyar
+## Cómo apoyar
 
 Momentáneamente recibimos los apoyos en la cuenta Prex de [Federico Baña](https://www.linkedin.com/in/banafederico/).
 
