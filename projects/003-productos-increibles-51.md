@@ -23,10 +23,11 @@ Registrandote acá podes venir a la grabación: [https://podcast.init.uy](https:
 | # | Monto    | Miembro          |
 | - | -------- | ---------------- |
 | 1 | US$ 10   | Federico Baña    |
-| 2 | US$ 10   | —                |
-| 3 | US$ 10   | —                |
-| 4 | US$ 10   | —                |
+| 2 | US$ 10   | Valentín Correa  |
+| 3 | US$ 10   | Agustín Diaz     |
+| 4 | US$ 10   | Juan Santos      |
 | 5 | US$ 10   | —                |
+| 6 | US$ 10   | —                |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
