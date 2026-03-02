@@ -26,7 +26,7 @@ Registrandote acá podes venir a la grabación: [https://podcast.init.uy](https:
 | 2 | US$ 10   | Valentín Correa  |
 | 3 | US$ 10   | Agustín Diaz     |
 | 4 | US$ 10   | Juan Santos      |
-| 5 | US$ 10   | —                |
+| 5 | US$ 10   | Michael Golenia  |
 | 6 | US$ 10   | —                |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
