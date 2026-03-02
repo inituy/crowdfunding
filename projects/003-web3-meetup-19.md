@@ -1,10 +1,12 @@
 <img src="https://raw.githubusercontent.com/inituy/crowdfunding/refs/heads/main/banners/web3-meetup-19-16_9.png" width="600" />
 
-# Apoyá este contenido
+# Apoyá este contenido #3
 
 Podés apoyar este contenido con US$ 10 (o más) para financiar las expensas operativas de su producción.
 
 [`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
+
+Ya completamos 2 proyectos de crowdfunding exitosamente 🙌 gracias a los que nos apoyan!
 
 ---
 
