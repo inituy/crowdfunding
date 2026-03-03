@@ -22,28 +22,28 @@ Anotate acá: https://meetup.init.uy
 
 ## Miembros que apoyan
 
-| #  | Monto    | Miembro          |
-| -- | -------- | ---------------- |
-|  1 | US$ 10   | Federico Baña    |
-|  2 | US$ 10   | Manuel De León   |
-|  3 | US$ 10   | —                |
-|  4 | US$ 10   | —                |
-|  5 | US$ 10   | —                |
-|  6 | US$ 10   | —                |
-|  7 | US$ 10   | —                |
-|  8 | US$ 10   | —                |
-|  9 | US$ 10   | —                |
-| 10 | US$ 10   | —                |
-| 11 | US$ 10   | —                |
-| 12 | US$ 10   | —                |
-| 13 | US$ 10   | —                |
-| 14 | US$ 10   | —                |
-| 15 | US$ 10   | —                |
-| 16 | US$ 10   | —                |
-| 17 | US$ 10   | —                |
-| 18 | US$ 10   | —                |
-| 19 | US$ 10   | —                |
-| 20 | US$ 10   | —                |
+| #  | Monto    | Miembro           |
+| -- | -------- | ----------------- |
+|  1 | US$ 10   | Federico Baña     |
+|  2 | US$ 10   | Manuel De León    |
+|  3 | US$ 10   | Carolina Menchaca |
+|  4 | US$ 10   | Juan Ignacio Ríos |
+|  5 | US$ 10   | —                 |
+|  6 | US$ 10   | —                 |
+|  7 | US$ 10   | —                 |
+|  8 | US$ 10   | —                 |
+|  9 | US$ 10   | —                 |
+| 10 | US$ 10   | —                 |
+| 11 | US$ 10   | —                 |
+| 12 | US$ 10   | —                 |
+| 13 | US$ 10   | —                 |
+| 14 | US$ 10   | —                 |
+| 15 | US$ 10   | —                 |
+| 16 | US$ 10   | —                 |
+| 17 | US$ 10   | —                 |
+| 18 | US$ 10   | —                 |
+| 19 | US$ 10   | —                 |
+| 20 | US$ 10   | —                 |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
