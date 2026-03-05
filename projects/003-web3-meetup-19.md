@@ -33,7 +33,7 @@ Anotate acá: https://meetup.init.uy
 |  7 | US$ 10   | Carlos Pereira      |
 |  8 | US$ 10   | Agustin Diaz        |
 |  9 | US$ 10   | Ernesto Speranza    |
-| 10 | US$ 10   | —                   |
+| 10 | US$ 10   | Diego Lindner       |
 | 11 | US$ 10   | —                   |
 | 12 | US$ 10   | —                   |
 | 13 | US$ 10   | —                   |
