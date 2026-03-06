@@ -34,10 +34,10 @@ Anotate acá: https://meetup.init.uy
 |  8 | US$ 10   | Agustin Diaz        |
 |  9 | US$ 10   | Ernesto Speranza    |
 | 10 | US$ 10   | Diego Lindner       |
-| 11 | US$ 10   | —                   |
-| 12 | US$ 10   | —                   |
-| 13 | US$ 10   | —                   |
-| 14 | US$ 10   | —                   |
+| 11 | US$ 10   | Builder Anónimo 🥷 |
+| 12 | US$ 10   | Yuri Duarte         |
+| 13 | US$ 10   | Santiago Silva      |
+| 14 | US$ 10   | Builder Anónimo 🥷 |
 | 15 | US$ 10   | —                   |
 | 16 | US$ 10   | —                   |
 | 17 | US$ 10   | —                   |
