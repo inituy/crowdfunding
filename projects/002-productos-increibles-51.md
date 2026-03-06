@@ -27,7 +27,7 @@ Registrandote acá podes venir a la grabación: [https://podcast.init.uy](https:
 | 3 | US$ 10   | Agustín Diaz     |
 | 4 | US$ 10   | Juan Santos      |
 | 5 | US$ 10   | Michael Golenia  |
-| 6 | US$ 10   | —                |
+| 6 | US$ 10   | Manuel De León   |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
