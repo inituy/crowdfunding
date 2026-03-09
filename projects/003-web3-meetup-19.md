@@ -37,13 +37,13 @@ Anotate acá: https://meetup.init.uy
 | 11 | US$ 10   | Builder Anónimo 🥷 |
 | 12 | US$ 10   | Yuri Duarte         |
 | 13 | US$ 10   | Santiago Silva      |
-| 14 | US$ 10   | Builder Anónimo 🥷 |
-| 15 | US$ 10   | —                   |
-| 16 | US$ 10   | —                   |
-| 17 | US$ 10   | —                   |
-| 18 | US$ 10   | —                   |
-| 19 | US$ 10   | —                   |
-| 20 | US$ 10   | —                   |
+| 14 | US$ 10   | Santiago Silva      |
+| 15 | US$ 10   | Builder Anónimo 🥷 |
+| 16 | US$ 10   | Maximiliano Bertta  |
+| 17 | US$ 10   | Laura Albarracín    |
+| 18 | US$ 10   | Martin Brian        |
+| 19 | US$ 10   | Pablo Ramos         |
+| 20 | US$ 10   | Ivan Sanchez        |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
