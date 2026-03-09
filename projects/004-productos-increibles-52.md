@@ -24,7 +24,7 @@ Si querés participar desde el café, anotate y nos vemos el 21: https://podcast
 
 | # | Monto    | Miembro          |
 | - | -------- | ---------------- |
-| 1 | US$ 10   | —                |
+| 1 | US$ 10   | Riccardo Inojosa |
 | 2 | US$ 10   | —                |
 | 3 | US$ 10   | —                |
 | 4 | US$ 10   | —                |
