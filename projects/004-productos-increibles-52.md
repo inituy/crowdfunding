@@ -4,7 +4,7 @@
 
 Podés apoyar este contenido con US$ 10 (o más) para financiar las expensas operativas de su producción.
 
-[`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
+→ [Unite al grupo para enterarte como apoyar](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
 
 Ya financiamos __3__ contenidos gracias al apoyo de la comunidad 🙌 gracias! Fijate [en este link](https://github.com/inituy/crowdfunding/tree/main/projects) cuales fueron.
 
@@ -15,8 +15,6 @@ Ya financiamos __3__ contenidos gracias al apoyo de la comunidad 🙌 gracias! F
 [Catalina Gamarra](https://www.linkedin.com/in/catalina-gamarra-161a6b2bb/) y [Mateo Di Fortuna](https://www.linkedin.com/in/mateo-di-fortuna-2aab28254/) vienen este Sábado 21 de Marzo al café a contarnos como construyeron [Fiddelik](https://www.fiddelik.com/).
 
 Si querés participar desde el café, anotate y nos vemos el 21: https://podcast.init.uy
-
-[`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
 
 ---
 
@@ -33,7 +31,7 @@ Si querés participar desde el café, anotate y nos vemos el 21: https://podcast
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
-[`🚀 Hacé clic acá para apoyar`](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
+→ ¿Querés ver tu nombre en esta lista? [Unite al grupo para apoyar](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
 
 ---
 
@@ -55,4 +53,4 @@ Estas son las expensas que necesitamos cubrir:
 
 Momentáneamente recibimos los apoyos en la cuenta Prex de [Federico Baña](https://www.linkedin.com/in/banafederico/).
 
-[Hacé clic acá para obtener más información](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
+→ [Unite al grupo acá para obtener más información](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
