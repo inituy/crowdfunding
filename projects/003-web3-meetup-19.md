@@ -24,7 +24,7 @@ Anotate acá: https://meetup.init.uy
 
 | #  | Monto    | Miembro             |
 | -- | -------- | ------------------- |
-|  1 | US$ 10   | Federico Baña       |
+|  1 | US$ 10   | Riccado Inojosa     |
 |  2 | US$ 10   | Manuel De León      |
 |  3 | US$ 10   | Carolina Menchaca   |
 |  4 | US$ 10   | Juan Ignacio Ríos   |
