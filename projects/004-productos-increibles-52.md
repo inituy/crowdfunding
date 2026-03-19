@@ -25,9 +25,9 @@ Si querés participar desde el café, anotate y nos vemos el 21: https://podcast
 | 1 | US$ 10   | Federico Baña     |
 | 2 | US$ 10   | Santiago Chemello |
 | 3 | US$ 10   | Alfonso Payra     |
-| 4 | US$ 10   | —                 |
-| 5 | US$ 10   | —                 |
-| 6 | US$ 10   | —                 |
+| 4 | US$ 10   | Laura Albarracín  |
+| 5 | US$ 10   | Franco Mangone    |
+| 6 | US$ 10   | Franco Mangone    |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
