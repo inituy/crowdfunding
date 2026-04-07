@@ -6,7 +6,7 @@ Podés apoyar este contenido con US$ 10 (o más) para financiar las expensas ope
 
 → [Unite al grupo para enterarte como apoyar](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
 
-Ya financiamos *4* contenidos gracias al apoyo de la comunidad 🙌 gracias! Fijate [en este link](https://github.com/inituy/crowdfunding/tree/main/projects) cuales fueron.
+Ya financiamos __4__ contenidos gracias al apoyo de la comunidad 🙌 gracias! Fijate [en este link](https://github.com/inituy/crowdfunding/tree/main/projects) cuales fueron.
 
 ---
 
