@@ -25,7 +25,7 @@ El registro es en: https://meetup.init.uy
 |  1 | US$ 10   | Federico Baña    |
 |  2 | US$ 10   | Martin Machin    |
 |  3 | US$ 10   | Martin Machin    |
-|  4 | US$ 10   | —                |
+|  4 | US$ 10   | Valentín Correa  |
 |  5 | US$ 10   | —                |
 |  6 | US$ 10   | —                |
 |  7 | US$ 10   | —                |
