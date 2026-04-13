@@ -28,7 +28,7 @@ El registro es en: https://meetup.init.uy
 |  4 | US$ 10   | Valentín Correa     |
 |  5 | US$ 10   | Carlos Pereira      |
 |  6 | US$ 10   | Federico Castañeres |
-|  7 | US$ 10   | —                |
+|  7 | US$ 10   | Santiago Silva      |
 |  8 | US$ 10   | —                |
 |  9 | US$ 10   | —                |
 | 10 | US$ 10   | —                |
