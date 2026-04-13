@@ -20,14 +20,14 @@ El registro es en: https://meetup.init.uy
 
 ## Miembros que ya apoyan
 
-| #  | Monto    | Miembro          |
-| -  | -------- | ---------------- |
-|  1 | US$ 10   | Federico Baña    |
-|  2 | US$ 10   | Martin Machin    |
-|  3 | US$ 10   | Martin Machin    |
-|  4 | US$ 10   | Valentín Correa  |
-|  5 | US$ 10   | —                |
-|  6 | US$ 10   | —                |
+| #  | Monto    | Miembro             |
+| -  | -------- | ------------------- |
+|  1 | US$ 10   | Federico Baña       |
+|  2 | US$ 10   | Martin Machin       |
+|  3 | US$ 10   | Martin Machin       |
+|  4 | US$ 10   | Valentín Correa     |
+|  5 | US$ 10   | Carlos Pereira      |
+|  6 | US$ 10   | Federico Castañeres |
 |  7 | US$ 10   | —                |
 |  8 | US$ 10   | —                |
 |  9 | US$ 10   | —                |
