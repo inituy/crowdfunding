@@ -29,8 +29,8 @@ El registro es en: https://meetup.init.uy
 |  5 | US$ 10   | Carlos Pereira      |
 |  6 | US$ 10   | Federico Castañeres |
 |  7 | US$ 10   | Santiago Silva      |
-|  8 | US$ 10   | —                |
-|  9 | US$ 10   | —                |
+|  8 | US$ 10   | Victor Inojosa      |
+|  9 | US$ 10   | Laura Albarracín    |
 | 10 | US$ 10   | —                |
 | 11 | US$ 10   | —                |
 | 12 | US$ 10   | —                |
