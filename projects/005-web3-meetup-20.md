@@ -31,7 +31,7 @@ El registro es en: https://meetup.init.uy
 |  7 | US$ 10   | Santiago Silva      |
 |  8 | US$ 10   | Victor Inojosa      |
 |  9 | US$ 10   | Laura Albarracín    |
-| 10 | US$ 10   | —                |
+| 10 | US$ 10   | Santiago Laport     |
 | 11 | US$ 10   | —                |
 | 12 | US$ 10   | —                |
 | 13 | US$ 10   | —                |
