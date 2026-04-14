@@ -34,8 +34,8 @@ El registro es en: https://meetup.init.uy
 | 10 | US$ 10   | Santiago Laport     |
 | 11 | US$ 10   | Anya Wainberg       |
 | 12 | US$ 10   | Fabrizio De Luca    |
-| 15 | US$ 10   | —                |
-| 16 | US$ 10   | —                |
+| 15 | US$ 10   | Federico Imparatta  |
+| 16 | US$ 10   | Manuel De León      |
 | 17 | US$ 10   | —                |
 | 18 | US$ 10   | —                |
 | 19 | US$ 10   | —                |
