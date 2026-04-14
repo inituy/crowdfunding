@@ -36,7 +36,7 @@ El registro es en: https://meetup.init.uy
 | 12 | US$ 10   | Fabrizio De Luca    |
 | 15 | US$ 10   | Federico Imparatta  |
 | 16 | US$ 10   | Manuel De León      |
-| 17 | US$ 10   | —                |
+| 17 | US$ 10   | Alfonso Payra       |
 | 18 | US$ 10   | —                |
 | 19 | US$ 10   | —                |
 | 20 | US$ 10   | —                |
