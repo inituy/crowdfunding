@@ -37,7 +37,7 @@ El registro es en: https://meetup.init.uy
 | 15 | US$ 10   | Federico Imparatta  |
 | 16 | US$ 10   | Manuel De León      |
 | 17 | US$ 10   | Alfonso Payra       |
-| 18 | US$ 10   | —                |
+| 18 | US$ 10   | Riccardo Inojosa    |
 | 19 | US$ 10   | —                |
 | 20 | US$ 10   | —                |
 
