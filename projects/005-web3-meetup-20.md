@@ -38,7 +38,7 @@ El registro es en: https://meetup.init.uy
 | 16 | US$ 10   | Manuel De León      |
 | 17 | US$ 10   | Alfonso Payra       |
 | 18 | US$ 10   | Riccardo Inojosa    |
-| 19 | US$ 10   | —                |
+| 19 | US$ 10   | Ivan Sanchez        |
 | 20 | US$ 10   | —                |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
