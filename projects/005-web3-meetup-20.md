@@ -39,9 +39,9 @@ El registro es en: https://meetup.init.uy
 | 15 | US$ 10   | Alfonso Payra       |
 | 16 | US$ 10   | Riccardo Inojosa    |
 | 17 | US$ 10   | Ivan Sanchez        |
-| 18 | US$ 10   | Universidad INIT    |
-| 19 | US$ 10   | Universidad INIT    |
-| 20 | US$ 10   | Universidad INIT    |
+| 18 | US$ 10   | [Universidad INIT](universidad.init.uy) |
+| 19 | US$ 10   | [Universidad INIT](universidad.init.uy) |
+| 20 | US$ 10   | [Universidad INIT](universidad.init.uy) |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
