@@ -25,8 +25,8 @@ Anotate acá y participá: https://podcast.init.uy
 | 1 | US$ 10   | Federico Baña    |
 | 2 | US$ 10   | Laura Albarracín |
 | 3 | US$ 10   | Eric Harding     |
-| 4 | US$ 10   | —                |
-| 5 | US$ 10   | —                |
+| 4 | US$ 10   | Universidad INIT |
+| 5 | US$ 10   | Universidad INIT |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
