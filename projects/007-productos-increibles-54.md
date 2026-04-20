@@ -36,9 +36,9 @@ Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
 ## Detalles del apoyo
 
-* Objetivo: US$ 60
+* Objetivo: US$ 50
 * Apoyo individual: US$ 10
-* Apoyos necesarios: 6
+* Apoyos necesarios: 5
 
 Estas son las expensas que necesitamos cubrir:
 
