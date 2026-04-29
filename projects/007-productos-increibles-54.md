@@ -23,10 +23,10 @@ Anotate acá y participá: https://podcast.init.uy
 | # | Monto    | Miembro          |
 | - | -------- | ---------------- |
 | 1 | US$ 10   | Federico Baña    |
-| 2 | US$ 10   | —                |
-| 3 | US$ 10   | —                |
-| 4 | US$ 10   | —                |
-| 5 | US$ 10   | —                |
+| 2 | US$ 10   | Federico Baña    |
+| 3 | US$ 10   | Federico Baña    |
+| 4 | US$ 10   | Federico Baña    |
+| 5 | US$ 10   | Federico Baña    |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
