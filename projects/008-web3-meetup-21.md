@@ -41,7 +41,7 @@ Te esperamos, anotate: https://meetup.init.uy
 | 17 | US$ 10   | —                 |
 | 18 | US$ 10   | —                 |
 | 19 | US$ 10   | —                 |
-| 24 | US$ 10   | —                 |
+| 20 | US$ 10   | —                 |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
