@@ -25,10 +25,10 @@ Te esperamos, anotate: https://meetup.init.uy
 |  1 | US$ 10   | Federico Baña     |
 |  2 | US$ 10   | Paul Messina      |
 |  3 | US$ 10   | Francisco Aguirre |
-|  4 | US$ 10   | —                 |
-|  5 | US$ 10   | —                 |
-|  6 | US$ 10   | —                 |
-|  7 | US$ 10   | —                 |
+|  4 | US$ 10   | Laura Albarracín  |
+|  5 | US$ 10   | Carlos Pereira    |
+|  6 | US$ 10   | Alfonso Payra     |
+|  7 | US$ 10   | Jorge Alfonzo     |
 |  8 | US$ 10   | —                 |
 |  9 | US$ 10   | —                 |
 | 10 | US$ 10   | —                 |
