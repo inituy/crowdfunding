@@ -28,8 +28,8 @@ Te esperamos, anotate: https://meetup.init.uy
 |  4 | US$ 10   | Laura Albarracín  |
 |  5 | US$ 10   | Carlos Pereira    |
 |  6 | US$ 10   | Alfonso Payra     |
-|  7 | US$ 10   | Jorge Alfonzo     |
-|  8 | US$ 10   | Federico Castañares |
+|  7 | US$ 10   | Federico Castañares |
+|  8 | US$ 10   | —                 |
 |  9 | US$ 10   | —                 |
 | 10 | US$ 10   | —                 |
 | 11 | US$ 10   | —                 |
