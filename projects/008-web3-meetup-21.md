@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/inituy/crowdfunding/refs/heads/main/banners/web3-meetup-21-16_9.png" width="600" />
+<!--<img src="https://raw.githubusercontent.com/inituy/crowdfunding/refs/heads/main/banners/web3-meetup-21-16_9.png" width="600" />-->
 
 # Apoyá este contenido
 
@@ -10,9 +10,9 @@ Ya financiamos **7** contenidos gracias al apoyo de la comunidad 🙌 gracias! F
 
 ---
 
-## web3 meetup #21: Franco Mangone
+## web3 meetup #21
 
-Junio 10! 📆 Zero-Knowledge Proofs: Un tema que parece mágico a simple vista y del cual [Franco](https://www.linkedin.com/in/frank-mangone/) sabe un montón.
+Re-agendamos la última juntada que se suspendió! Estamos estudiando la idea de hacer un asado, con la pizza como plan B.
 
 Te esperamos, anotate: https://meetup.init.uy
 
