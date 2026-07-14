@@ -29,7 +29,7 @@ Te esperamos, anotate: https://meetup.init.uy
 |  5 | US$ 10   | Carlos Pereira    |
 |  6 | US$ 10   | Alfonso Payra     |
 |  7 | US$ 10   | Federico Castañares |
-|  8 | US$ 10   | —                 |
+|  8 | US$ 10   | Valentín Correa   |
 |  9 | US$ 10   | —                 |
 | 10 | US$ 10   | —                 |
 | 11 | US$ 10   | —                 |
