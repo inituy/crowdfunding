@@ -30,7 +30,7 @@ Te esperamos, anotate: https://meetup.init.uy
 |  6 | US$ 10   | Alfonso Payra     |
 |  7 | US$ 10   | Federico Castañares |
 |  8 | US$ 10   | Valentín Correa   |
-|  9 | US$ 10   | —                 |
+|  9 | US$ 10   | Franco Mangone    |
 | 10 | US$ 10   | —                 |
 | 11 | US$ 10   | —                 |
 | 12 | US$ 10   | —                 |
