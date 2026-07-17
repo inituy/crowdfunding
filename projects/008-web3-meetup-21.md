@@ -32,7 +32,7 @@ Te esperamos, anotate: https://meetup.init.uy
 |  8 | US$ 10   | Valentín Correa   |
 |  9 | US$ 10   | Franco Mangone    |
 | 10 | US$ 10   | Carlos Pereira    |
-| 11 | US$ 10   | —                 |
+| 11 | US$ 10   | Laura Albarracín  |
 | 12 | US$ 10   | —                 |
 | 13 | US$ 10   | —                 |
 | 14 | US$ 10   | —                 |
