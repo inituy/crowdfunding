@@ -33,8 +33,8 @@ Te esperamos, anotate: https://meetup.init.uy
 |  9 | US$ 10   | Franco Mangone    |
 | 10 | US$ 10   | Carlos Pereira    |
 | 11 | US$ 10   | Laura Albarracín  |
-| 12 | US$ 10   | —                 |
-| 13 | US$ 10   | —                 |
+| 12 | US$ 10   | Gabriel Nis       |
+| 13 | US$ 10   | Kevin Exposito    |
 | 14 | US$ 10   | —                 |
 | 15 | US$ 10   | —                 |
 | 16 | US$ 10   | —                 |
