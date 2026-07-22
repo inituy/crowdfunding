@@ -35,10 +35,10 @@ Te esperamos, anotate: https://meetup.init.uy
 | 11 | US$ 10   | Laura Albarracín  |
 | 12 | US$ 10   | Gabriel Nis       |
 | 13 | US$ 10   | Kevin Exposito    |
-| 14 | US$ 10   | —                 |
-| 15 | US$ 10   | —                 |
-| 16 | US$ 10   | —                 |
-| 17 | US$ 10   | —                 |
+| 14 | US$ 10   | Antonella Brochini |
+| 15 | US$ 10   | Jorge Alfonzo     |
+| 16 | US$ 10   | Jorge Alfonzo     |
+| 17 | US$ 10   | Devperate         |
 | 18 | US$ 10   | —                 |
 | 19 | US$ 10   | —                 |
 | 20 | US$ 10   | —                 |
