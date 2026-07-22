@@ -36,8 +36,8 @@ Te esperamos, anotate: https://meetup.init.uy
 | 12 | US$ 10   | Gabriel Nis       |
 | 13 | US$ 10   | Kevin Exposito    |
 | 14 | US$ 10   | Antonella Brochini |
-| 15 | US$ 10   | Jorge Alfonzo     |
-| 16 | US$ 10   | Jorge Alfonzo     |
+| 15 | US$ 10   | Jorge Alfonso     |
+| 16 | US$ 10   | Jorge Alfonso     |
 | 17 | US$ 10   | Devperate         |
 | 18 | US$ 10   | —                 |
 | 19 | US$ 10   | —                 |
