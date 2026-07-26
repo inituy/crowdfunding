@@ -39,9 +39,11 @@ Te esperamos, anotate: https://meetup.init.uy
 | 15 | US$ 10   | Jorge Alfonso     |
 | 16 | US$ 10   | Jorge Alfonso     |
 | 17 | US$ 10   | Devperate         |
-| 18 | US$ 10   | —                 |
-| 19 | US$ 10   | —                 |
-| 20 | US$ 10   | —                 |
+| 18 | US$ 10   | Martin Brian      |
+| 19 | US$ 10   | Fernando Falcon   |
+| 20 | US$ 10   | Sergio Lima       |
+| 21 | US$ 10   | Santiago Silva    |
+| 22 | US$ 10   | Riccardo Inojosa  |
 
 Agradecemos mucho a los miembros de la comunidad que apoyan este contenido!
 
