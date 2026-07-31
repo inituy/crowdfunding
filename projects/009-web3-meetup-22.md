@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/inituy/meetup/refs/heads/main/assets/web3-meetup-22-anuncio-16-9.png" width="600" />
+<img src="https://raw.githubusercontent.com/inituy/crowdfunding/refs/heads/main/banners/web3-meetup-22-16_9.png" width="600" />
 
 # Apoyá este contenido
 
@@ -6,15 +6,15 @@ Podés apoyar este contenido con US$ 10 (o más) para financiar las expensas ope
 
 → [Unite al grupo para enterarte como apoyar](https://chat.whatsapp.com/EV2gAwcXeEGFEZCyls2uKT).
 
-Ya financiamos **7** contenidos gracias al apoyo de la comunidad 🙌 gracias! Fijate [en este link](https://github.com/inituy/crowdfunding/tree/main/projects) cuales fueron.
+Ya financiamos **8** contenidos gracias al apoyo de la comunidad 🙌 gracias! Fijate [en este link](https://github.com/inituy/crowdfunding/tree/main/projects) cuales fueron.
 
 ---
 
-## web3 meetup #21
+## web3 meetup #22: Francisco Aguirre
 
-Re-agendamos la última juntada que se suspendió! Estamos estudiando la idea de hacer un asado, con la pizza como plan B.
+Venite a tomarte unas 🍻 con la comunidad y escuchar las novedades que nos trae [Francisco](https://www.linkedin.com/in/franciscoaguirreperez/) sobre Polkadot.
 
-Te esperamos, anotate: https://meetup.init.uy
+Anotate acá para avisarnos que venís: https://meetup.init.uy.
 
 ---
 
