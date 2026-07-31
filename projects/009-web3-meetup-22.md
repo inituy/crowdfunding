@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/inituy/crowdfunding/refs/heads/main/banners/web3-meetup-22-16_9.png" width="600" />
+<img src="https://raw.githubusercontent.com/inituy/crowdfunding/refs/heads/main/banners/web3-meetup-22-16-9.png" width="600" />
 
 # Apoyá este contenido
 
