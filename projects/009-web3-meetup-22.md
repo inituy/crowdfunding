@@ -23,7 +23,7 @@ Anotate acá para avisarnos que venís: https://meetup.init.uy.
 | #  | Monto    | Miembro           |
 | -  | -------- | ----------------- |
 |  1 | US$ 10   | Federico Baña     |
-|  2 | US$ 10   | -                 |
+|  2 | US$ 10   | Francisco Aguirre |
 |  3 | US$ 10   | -                 |
 |  4 | US$ 10   | -                 |
 |  5 | US$ 10   | -                 |
